@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"ZapiliaBattler","characterIndex":0,"characterName":"ZapiliaWalk","classId":1,"equips":[0,0,2,3,4],"faceIndex":0,"faceName":"Zapilia1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zapilia","nickname":"","note":"healing and elemental magic","profile":""},
+{"id":2,"battlerName":"ZaneBattler","characterIndex":0,"characterName":"ZaneWalk","classId":2,"equips":[1,1,2,3,4],"faceIndex":2,"faceName":"Zane1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zane","nickname":"","note":"heavy hitter","profile":""},
+{"id":3,"battlerName":"AnyaBattler","characterIndex":0,"characterName":"anyaWalk","classId":3,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"anya2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anya","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"DorianBattler","characterIndex":0,"characterName":"DorianWalk","classId":4,"equips":[2,0,2,3,4],"faceIndex":2,"faceName":"Dorian1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dorian","nickname":"","note":"buffs","profile":""},
+{"id":5,"battlerName":"dalnaycusBattler","characterIndex":0,"characterName":"Dalnaycuswalk","classId":1,"equips":[0,0,2,3,4],"faceIndex":0,"faceName":"Dalnaycus1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dalnaycus","nickname":"","note":"enemy debuffer\n","profile":""}
+]
