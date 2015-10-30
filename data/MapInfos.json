@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":1622,"scrollY":895},
+{"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":816,"scrollY":816},
 {"id":2,"expanded":true,"name":"Gerdon","order":2,"parentId":1,"scrollX":2184,"scrollY":1039},
 {"id":3,"expanded":false,"name":"Blackness","order":20,"parentId":0,"scrollX":1404,"scrollY":780.8571428571428},
 {"id":4,"expanded":true,"name":"Zaphilia's House","order":3,"parentId":2,"scrollX":1404,"scrollY":780.8571428571428},
@@ -19,5 +19,5 @@ null,
 {"id":17,"expanded":false,"name":"Zane's House","order":15,"parentId":11,"scrollX":1638,"scrollY":911},
 {"id":18,"expanded":false,"name":"Anya's House","order":14,"parentId":11,"scrollX":1404,"scrollY":780.8571428571428},
 {"id":19,"expanded":true,"name":"Mountain Dungeon 1F","order":18,"parentId":1,"scrollX":1622,"scrollY":1489},
-{"id":20,"expanded":false,"name":"Mountain Dungeon 2F","order":19,"parentId":19,"scrollX":1622,"scrollY":951}
+{"id":20,"expanded":false,"name":"Mountain Dungeon 2F","order":19,"parentId":19,"scrollX":1104,"scrollY":952}
 ]
