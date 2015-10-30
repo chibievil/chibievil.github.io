@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":1390.2857142857142,"scrollY":768.8571428571428},
-{"id":2,"expanded":true,"name":"Gerdon","order":2,"parentId":1,"scrollX":2026.2857142857142,"scrollY":767.1428571428571},
+{"id":2,"expanded":true,"name":"Gerdon","order":2,"parentId":1,"scrollX":2026.2857142857142,"scrollY":1248.857142857143},
 {"id":3,"expanded":false,"name":"Blackness","order":20,"parentId":0,"scrollX":1404,"scrollY":780.8571428571428},
 {"id":4,"expanded":true,"name":"Zaphilia's House","order":3,"parentId":2,"scrollX":1404,"scrollY":780.8571428571428},
 {"id":5,"expanded":false,"name":"Gerdon Shop","order":4,"parentId":2,"scrollX":1404,"scrollY":780.8571428571428},
