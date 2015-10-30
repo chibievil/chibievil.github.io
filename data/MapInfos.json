@@ -18,6 +18,6 @@ null,
 {"id":16,"expanded":false,"name":"Gerdon Magic Academy","order":16,"parentId":11,"scrollX":1390,"scrollY":780},
 {"id":17,"expanded":false,"name":"Zane's House","order":15,"parentId":11,"scrollX":1638,"scrollY":911},
 {"id":18,"expanded":false,"name":"Anya's House","order":14,"parentId":11,"scrollX":1404,"scrollY":780.8571428571428},
-{"id":19,"expanded":true,"name":"Mountain Dungeon 1F","order":18,"parentId":1,"scrollX":1390.2857142857142,"scrollY":780.8571428571428},
-{"id":20,"expanded":false,"name":"Mountain Dungeon 2F","order":19,"parentId":19,"scrollX":1390.2857142857142,"scrollY":780.8571428571428}
+{"id":19,"expanded":true,"name":"Mountain Dungeon 1F","order":18,"parentId":1,"scrollX":1622,"scrollY":911},
+{"id":20,"expanded":false,"name":"Mountain Dungeon 2F","order":19,"parentId":19,"scrollX":1622,"scrollY":911}
 ]
